@@ -22,7 +22,8 @@
 
 # Installation
 - Download the release 
-- Run the .exe file in terminal
+- Compile the .c file in terminal with the following command - `gcc schedulingAlgorithm.c -o schedulingAlgorithm`
+- Run the file with `./schedulingAlgorithm`
 
 
 
